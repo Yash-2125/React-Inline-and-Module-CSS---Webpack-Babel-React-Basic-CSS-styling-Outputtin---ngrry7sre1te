@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./appStyles.module.css";
+import styles from "./App.css";
 
 function App() {
   const heading = { fontSize: "50px", color: "red" };
