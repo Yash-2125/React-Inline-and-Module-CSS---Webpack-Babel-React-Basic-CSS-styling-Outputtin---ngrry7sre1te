@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./appStyles.module.css";
 
-function InlineModuleCSSFunc() {
+function App() {
   const heading = { fontSize: "50px", color: "red" };
   return (
     <div id="main">
@@ -11,4 +11,4 @@ function InlineModuleCSSFunc() {
   );
 }
 
-export default InlineModuleCSSFunc;
+export default App;
